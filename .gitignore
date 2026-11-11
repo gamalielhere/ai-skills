@@ -1,0 +1,4 @@
+# External repositories are cloned locally by sync.sh, never vendored.
+external/
+.DS_Store
+*.log
